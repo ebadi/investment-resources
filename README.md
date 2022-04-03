@@ -9,7 +9,7 @@ My incomplete list of resources on Investment
 
 Please _Start by checking the archive, **not** the latest episodes._
 
-- [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) Video, Market, Books.
+- [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) Video, Market, Books
 - [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/) Finance, Funds, Market
 - [InvestED: The Rule #1 Investing Podcast](http://www.investedpodcast.com/) Market ([feed](https://feeds.megaphone.fm/investedpodcast))
 - [Freakonomics Radio](http://freakonomics.com/) Podcast, Economy ([feed](https://feeds.simplecast.com/Y8lFbOT4))
@@ -37,8 +37,8 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [Cameron Stewart, CFA](https://www.youtube.com/c/CameronStewartCFA/) Video, Market, Accounting, Bussiness, Finance ([feed](https://rssfeed))
 
 ## Bussiness stories
-- [Bad Bets](https://www.wsj.com/podcasts/bad-bets) (Podcast) Bussiness ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
-- [As the Ice Cream Churns](https://anchor.fm/astheicecreamchurns) (Podcast) Bussiness, Interviews, Finance, Startup ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
+- [Bad Bets](https://www.wsj.com/podcasts/bad-bets) Podcast, Bussiness ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
+- [As the Ice Cream Churns](https://anchor.fm/astheicecreamchurns) Podcast, Bussiness, Interviews, Finance, Startup ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
 - [StartUp](https://gimletmedia.com/shows/startup) Podcast, Bussiness, Interviews, Finance, Startup ([feed](https://feeds.megaphone.fm/startup))
 
 ## Remain updated
@@ -57,9 +57,9 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [QuickFS](https://quickfs.net/)
 - [Edgar](https://www.sec.gov/edgar.shtml)
 - [Whale Wisdom](whalewisdom.com/)
-- [Inside Voice](https://www.insidevoice.se/)
 - [Open Insider](http://openinsider.com/)
 - [DataRoma](https://www.dataroma.com/m/home.php)
 - [Value Investors Club](https://valueinvestorsclub.com/)
 - [Simply Wall St](https://simplywall.st/)
 - [ETF-DB](https://etfdb.com/)
+- [Inside Voice](https://www.insidevoice.se/)
