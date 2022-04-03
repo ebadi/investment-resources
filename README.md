@@ -54,6 +54,7 @@ Please _Start by checking the archive, **not** the latest episodes._
 ## Research tools
 - [roic.ai](https://roic.ai/)
 - [TIKR Terminal](https://tikr.com/)
+- [OpenBB](https://www.openbb.co/)
 - [QuickFS](https://quickfs.net/)
 - [GuruFocus](https://www.gurufocus.com/)
 - [Edgar](https://www.sec.gov/edgar.shtml)
