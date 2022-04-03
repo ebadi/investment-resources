@@ -7,7 +7,7 @@ My incomplete list of resources on Investment
 
 ## Get started 
 
-Please _Start by checking the archive, **not** the latest episodes._
+Please _start by checking the archive, **not** the latest episodes._
 
 - [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) Video, Market, Books
 - [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/) Finance, Funds, Market
@@ -41,7 +41,7 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [As the Ice Cream Churns](https://anchor.fm/astheicecreamchurns) Podcast, Bussiness, Interviews, Finance, Startup ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
 - [StartUp](https://gimletmedia.com/shows/startup) Podcast, Bussiness, Interviews, Finance, Startup ([feed](https://feeds.megaphone.fm/startup))
 
-## Remain updated
+## Stay updated
 - [The Journal](https://www.wsj.com/podcasts/the-journal) Podcast, Economy, Bussiness ([feed](https://video-api.wsj.com/podcast/rss/wsj/the-journal))
 - [Thoughts on the Market](https://art19.com/shows/thoughts-on-the-market) Podcast, Economy ([feed](https://rss.art19.com/thoughts-on-the-market))
 - [The Acquirers Podcast, Value After Hours](https://acquirersmultiple.com/) Podcast, Market ([feed](https://anchor.fm/s/9603714/podcast/rss))
