@@ -7,7 +7,7 @@ My incomplete list of resources on Investment
 
 ## Get started 
 
-**Start by checking the archive, not the latest episodes.**
+Please _Start by checking the archive, **not** the latest episodes._
 
 - [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) Video, Market, Books.
 - [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/) Finance, Funds, Market
@@ -15,6 +15,7 @@ My incomplete list of resources on Investment
 - [Freakonomics Radio](http://freakonomics.com/) Podcast, Economy ([feed](https://feeds.simplecast.com/Y8lFbOT4))
 - [Planet Money](https://www.npr.org/podcasts/510289/planet-money) Podcast ([feed](https://feeds.npr.org/510289/podcast.xml))
 - [The Indicator from Planet Money](https://www.npr.org/sections/money/567724614/the-indicator) Podcast, Economy ([feed](https://rssfeed))
+- [Investopedia Financial Term Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738)
 
 ## Learn more
 - [PensionCraft](https://www.youtube.com/c/Pensioncraft) Video, Economy, Funds
@@ -31,6 +32,8 @@ My incomplete list of resources on Investment
 - [Investment Talk](investmenttalk.substack.com) Podcast, Economy ([feed](https://api.substack.com/feed/podcast/47638/private/466057aa-201c-478b-8c3d-a31b707a0dde.rss))
 - [Value Investing with Legends](http://valueinvestingwithlegends.com/)  Podcast, Market, Bussiness, Book, Interviews ([feed](https://valueinvestingwithlegends.libsyn.com/rss))
 - [The Intellectual Investor](https://investor.fm/) Podcast, Market, Bussiness ([feed](https://investor.fm/rss))
+- [This Week in Intelligent Investing](https://moiglobal.com/category/channel/twiii/) Podcast, Market, Interview
+- [Aswath Damodaran, Valuation, Corporate Finance](https://www.youtube.com/c/AswathDamodaranonValuation) Video, Market, Finance, Accounting, Bussiness
 - [Cameron Stewart, CFA](https://www.youtube.com/c/CameronStewartCFA/) Video, Market, Accounting, Bussiness, Finance ([feed](https://rssfeed))
 
 ## Bussiness stories
@@ -47,3 +50,16 @@ My incomplete list of resources on Investment
 - [ParseDarBazar (Persian)](https://mehdi70501002.podbean.com/) Podcast, Book, Market, Economy, Bussiness, Book ([feed](https://feed.podbean.com/mehdi70501002/feed.xml))
 - [Avanzapodden (Swedish)](http://www.avanza.se/) Podcast, Market, Economy, Finance ([feed](https://feeds.soundcloud.com/users/soundcloud:users:352069556/sounds.rss))
 - [FarCast (Persian)](https://anchor.fm/daneshgoo) Podcast, Economy, Bussiness, Book, Interviews, Finance ([feed](https://anchor.fm/s/6d6f3ad4/podcast/rss))
+
+## Tools
+- [roic.ai](https://roic.ai/)
+- [TIKR Terminal](https://tikr.com/)
+- [QuickFS](https://quickfs.net/)
+- [Edgar](https://www.sec.gov/edgar.shtml)
+- [Whale Wisdom](whalewisdom.com/)
+- [Inside Voice](https://www.insidevoice.se/)
+- [Open Insider](http://openinsider.com/)
+- [DataRoma](https://www.dataroma.com/m/home.php)
+- [Value Investors Club](https://valueinvestorsclub.com/)
+- [Simply Wall St](https://simplywall.st/)
+- [ETF-DB](https://etfdb.com/)
