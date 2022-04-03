@@ -5,7 +5,10 @@ My incomplete list of resources on Investment
 - [LinkDescription](https://link) (Video/Podcast/Book) Market, Economy, Accounting, Funds, Bussiness, Book, Interviews, Finance, Startup ([feed](https://rssfeed))
 -->
 
-## Get started
+## Get started 
+
+**Start by checking the archive, not the latest episodes.**
+
 - [The Swedish Investor](https://www.youtube.com/c/TheSwedishInvestor/) Video, Market, Books.
 - [The Plain Bagel](https://www.youtube.com/c/ThePlainBagel/) Finance, Funds, Market
 - [InvestED: The Rule #1 Investing Podcast](http://www.investedpodcast.com/) Market ([feed](https://feeds.megaphone.fm/investedpodcast))
