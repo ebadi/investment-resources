@@ -51,10 +51,11 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [Avanzapodden (Swedish)](http://www.avanza.se/) Podcast, Market, Economy, Finance ([feed](https://feeds.soundcloud.com/users/soundcloud:users:352069556/sounds.rss))
 - [FarCast (Persian)](https://anchor.fm/daneshgoo) Podcast, Economy, Bussiness, Book, Interviews, Finance ([feed](https://anchor.fm/s/6d6f3ad4/podcast/rss))
 
-## Tools
+## Research tools
 - [roic.ai](https://roic.ai/)
 - [TIKR Terminal](https://tikr.com/)
 - [QuickFS](https://quickfs.net/)
+- [GuruFocus](https://www.gurufocus.com/)
 - [Edgar](https://www.sec.gov/edgar.shtml)
 - [Whale Wisdom](whalewisdom.com/)
 - [Open Insider](http://openinsider.com/)
@@ -63,3 +64,5 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [Simply Wall St](https://simplywall.st/)
 - [ETF-DB](https://etfdb.com/)
 - [Inside Voice](https://www.insidevoice.se/)
+- [SeekingAlpha](https://seekingalpha.com/)
+- [The Motley Fool](https://www.fool.com)
