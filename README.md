@@ -57,7 +57,7 @@ Please _Start by checking the archive, **not** the latest episodes._
 - [QuickFS](https://quickfs.net/)
 - [GuruFocus](https://www.gurufocus.com/)
 - [Edgar](https://www.sec.gov/edgar.shtml)
-- [Whale Wisdom](whalewisdom.com/)
+- [Whale Wisdom](https://whalewisdom.com/)
 - [Open Insider](http://openinsider.com/)
 - [DataRoma](https://www.dataroma.com/m/home.php)
 - [Value Investors Club](https://valueinvestorsclub.com/)
