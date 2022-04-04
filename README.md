@@ -33,7 +33,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [Inside Voice](https://www.insidevoice.se/)
 - [SeekingAlpha](https://seekingalpha.com/)
 - [The Motley Fool](https://www.fool.com)
-- 
+
 ## Learn more
 - [PensionCraft](https://www.youtube.com/c/Pensioncraft)
 - [Many Happy Returns](https://many-happy-returns.captivate.fm/)   ([feed](https://feeds.captivate.fm/many-happy-returns/))
@@ -52,6 +52,11 @@ Please _start by checking the archive, **not** the latest episodes._
 - [This Week in Intelligent Investing](https://moiglobal.com/category/channel/twiii/)
 - [Aswath Damodaran, Valuation, Corporate Finance](https://www.youtube.com/c/AswathDamodaranonValuation) 
 - [Cameron Stewart, CFA](https://www.youtube.com/c/CameronStewartCFA/)  ([feed](https://rssfeed))
+- [Motley Fool Money ](https://www.fool.com/podcasts/motley-fool-money) ([feed](https://fool.libsyn.com/rss))
+- [The DIY Investing Podcast](https://www.diyinvesting.org/) ([feed](https://diyinvesting.libsyn.com/rss))
+- [The DIY Investing Podcast](http://intelligentinvesting.podbean.com/) ([feed](https://intelligentinvesting.podbean.com/feed.xml))
+- [The Rules of Investing](https://livewiremarkets.podbean.com/) ([feed](https://feed.podbean.com/livewiremarkets/feed.xml))
+- [The Wall Street Lab](http://www.thewallstreetlab.com/) ([feed](https://thewallstreetlab.libsyn.com/rss))
 
 ## Bussiness stories
 - [Bad Bets](https://www.wsj.com/podcasts/bad-bets) ([feed](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
