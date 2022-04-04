@@ -47,7 +47,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [The 7investing Podcast](https://7investing.com/) ([RSS](https://anchor.fm/s/1659b6fc/podcast/rss))
 - [The Contrarian Investor Podcast](https://contrarianpod.com/) ([RSS](https://contrarian.libsyn.com/rss))
 - [Investment Talk](investmenttalk.substack.com) ([RSS](https://api.substack.com/feed/podcast/47638/private/466057aa-201c-478b-8c3d-a31b707a0dde.rss))
-- [Value Investing with Legends](http://valueinvestingwithlegends.com/) ([RSS](httfeed -> RSSps://valueinvestingwithlegends.libsyn.com/rss))
+- [Value Investing with Legends](http://valueinvestingwithlegends.com/) ([RSS](https://valueinvestingwithlegends.libsyn.com/rss))
 - [The Intellectual Investor](https://investor.fm/) ([RSS](https://investor.fm/rss))
 - [This Week in Intelligent Investing](https://moiglobal.com/category/channel/twiii/)
 - [Aswath Damodaran, Valuation, Corporate Finance](https://www.youtube.com/c/AswathDamodaranonValuation) 
