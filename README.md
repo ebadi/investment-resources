@@ -62,7 +62,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [Bad Bets](https://www.wsj.com/podcasts/bad-bets) ([RSS](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
 - [As the Ice Cream Churns](https://anchor.fm/astheicecreamchurns) ([RSS](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
 - [StartUp](https://gimletmedia.com/shows/startup)  ([RSS](https://feeds.megaphone.fm/startup))
-
+- [Business & Economics Documentaries](https://watchdocumentaries.com/business-and-economics/)
 ## Stay updated
 - [The Journal](https://www.wsj.com/podcasts/the-journal)  ([RSS](https://video-api.wsj.com/podcast/rss/wsj/the-journal))
 - [Thoughts on the Market](https://art19.com/shows/thoughts-on-the-market)  ([RSS](https://rss.art19.com/thoughts-on-the-market))
