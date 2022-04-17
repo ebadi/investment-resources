@@ -54,7 +54,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [Cameron Stewart, CFA](https://www.youtube.com/c/CameronStewartCFA/)  ([RSS](https://rssfeed))
 - [Motley Fool Money ](https://www.fool.com/podcasts/motley-fool-money) ([RSS](https://fool.libsyn.com/rss))
 - [The DIY Investing Podcast](https://www.diyinvesting.org/) ([RSS](https://diyinvesting.libsyn.com/rss))
-- [The DIY Investing Podcast](http://intelligentinvesting.podbean.com/) ([RSS](https://intelligentinvesting.podbean.com/feed.xml))
+- [The Intelligent Investing Podcast](http://intelligentinvesting.podbean.com/) ([RSS](https://intelligentinvesting.podbean.com/feed.xml))
 - [The Rules of Investing](https://livewiremarkets.podbean.com/) ([RSS](https://feed.podbean.com/livewiremarkets/feed.xml))
 - [The Wall Street Lab](http://www.thewallstreetlab.com/) ([RSS](https://thewallstreetlab.libsyn.com/rss))
 
@@ -63,6 +63,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [As the Ice Cream Churns](https://anchor.fm/astheicecreamchurns) ([RSS](https://video-api.wsj.com/podcast/rss/wsj/bad-bets?partner=itunes))
 - [StartUp](https://gimletmedia.com/shows/startup)  ([RSS](https://feeds.megaphone.fm/startup))
 - [Business & Economics Documentaries](https://watchdocumentaries.com/business-and-economics/)
+
 ## Stay updated
 - [The Journal](https://www.wsj.com/podcasts/the-journal)  ([RSS](https://video-api.wsj.com/podcast/rss/wsj/the-journal))
 - [Thoughts on the Market](https://art19.com/shows/thoughts-on-the-market)  ([RSS](https://rss.art19.com/thoughts-on-the-market))
