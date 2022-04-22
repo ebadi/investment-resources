@@ -33,7 +33,8 @@ Please _start by checking the archive, **not** the latest episodes._
 - [Inside Voice](https://www.insidevoice.se/)
 - [SeekingAlpha](https://seekingalpha.com/)
 - [The Motley Fool](https://www.fool.com)
-
+- [Strike Market (alternative data)](https://strike.market)
+- 
 ## Learn more
 - [PensionCraft](https://www.youtube.com/c/Pensioncraft)
 - [Many Happy Returns](https://many-happy-returns.captivate.fm/)   ([RSS](https://feeds.captivate.fm/many-happy-returns/))
