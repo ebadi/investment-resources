@@ -34,6 +34,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [SeekingAlpha](https://seekingalpha.com/)
 - [The Motley Fool](https://www.fool.com)
 - [Strike Market (alternative data)](https://strike.market)
+- [BamSEC](https://www.bamsec.com/)
 
 ## Learn more
 - [PensionCraft](https://www.youtube.com/c/Pensioncraft)
