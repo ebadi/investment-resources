@@ -90,7 +90,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - The Dhandho Investor: The Low-Risk Value Method to High Returns by Mohnish Pabrai
 - The Acquirer's Multiple: How the Billionaire Contrarians of Deep Value Beat the Market by Tobias E. Carlisle
 - 100 Baggers: Stocks That Return 100-to-1 and How To Find Them by Christopher W Mayer
-
+- Warren Buffett and the Interpretation of Financial Statements by Mary Buffett
 
 ## Macroeconomics
 - The Money Illusion by Irving Fisher
