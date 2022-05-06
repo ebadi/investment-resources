@@ -99,6 +99,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - A History of the United States in Five Crashes by Scott Nations
 - Mastering the Market Cycle by Howard Marks 
 - Economix: How Our Economy Works (and Doesn't Work), in Words and Pictures by Michael Goodwin 
+- Principles by Ray Dalio
 
 ## Accounting & Valuation (Books)
 - The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit by Aswath Damodaran
