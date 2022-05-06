@@ -91,9 +91,9 @@ Please _start by checking the archive, **not** the latest episodes._
 - The Acquirer's Multiple: How the Billionaire Contrarians of Deep Value Beat the Market by Tobias E. Carlisle
 - 100 Baggers: Stocks That Return 100-to-1 and How To Find Them by Christopher W Mayer
 
-
 ## Accounting (Books)
 - The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit by Aswath Damodaran
+- Valuation: Measuring and Managing the Value of Companies by McKinsey & Company Inc.
 - Security Analysis: Principles and Techniques by Benjamin Graham
 
 ## Misc (Books)
@@ -104,3 +104,11 @@ Please _start by checking the archive, **not** the latest episodes._
 - Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life by William Green 
 - The Snowball: Warren Buffett and the Business of Life by Alice Schroeder 
 - Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger by Peter D. Kaufman
+
+## Macroeconomics
+- The Money Illusion by Irving Fisher
+- How an Economy Grows and Why It Crashes by Schiff
+- The Wealth of Nations by Adam Smith
+- A History of the United States in Five Crashes by Scott Nations
+- Mastering the Market Cycle by Howard Marks 
+- Economix: How Our Economy Works (and Doesn't Work), in Words and Pictures by Michael Goodwin 
