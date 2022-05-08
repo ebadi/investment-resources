@@ -91,15 +91,18 @@ Please _start by checking the archive, **not** the latest episodes._
 - The Acquirer's Multiple: How the Billionaire Contrarians of Deep Value Beat the Market by Tobias E. Carlisle
 - 100 Baggers: Stocks That Return 100-to-1 and How To Find Them by Christopher W Mayer
 - Warren Buffett and the Interpretation of Financial Statements by Mary Buffett
+- The Education of a Value Investor by Guy Spier
 
 ## Macroeconomics
 - The Money Illusion by Irving Fisher
+- Basic Economics by Thomas Sowell 
 - How an Economy Grows and Why It Crashes by Schiff
 - The Wealth of Nations by Adam Smith
 - A History of the United States in Five Crashes by Scott Nations
 - Mastering the Market Cycle by Howard Marks 
 - Economix: How Our Economy Works (and Doesn't Work), in Words and Pictures by Michael Goodwin 
 - Principles by Ray Dalio
+- The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy by Stephanie Kelton
 
 ## Accounting & Valuation (Books)
 - The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit by Aswath Damodaran
@@ -107,6 +110,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - Security Analysis: Principles and Techniques by Benjamin Graham
 - Expectations Investing by Michael Mauboussin
 - Damodaran on Valuation Damodaran on Valuation
+- The Wisdom Of Finance: Discovering Humanity in the World of Risk and Return by Mihir Desai 
 
 ## Misc (Books)
 - Liar's Poker by Michael Lewis
@@ -119,3 +123,8 @@ Please _start by checking the archive, **not** the latest episodes._
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke
 - Fortunes in Special Situations in the Stock Market: The Authorized Edition by Maurece Schiller
 - The Little Book of Common Sense Investing by John C. Bogle
+- A Mathematician Plays The Stock Market by John Allen Paulos 
+- Positional Option Trading: An Advanced Guide (Wiley Trading) by Euan Sinclair 
+- The Big Short by Michael Lewis
+- Distress Investing: Principles and Technique by Whitman 
+- Applied Corporate Finance, Fourth Edition 4th Edition by Aswath Damodaran (Aut
