@@ -109,7 +109,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - Valuation: Measuring and Managing the Value of Companies by McKinsey & Company Inc.
 - Security Analysis: Principles and Techniques by Benjamin Graham
 - Expectations Investing by Michael Mauboussin
-- Damodaran on Valuation Damodaran on Valuation
+- Damodaran on Valuation by Aswath Damodaran
 - The Wisdom Of Finance: Discovering Humanity in the World of Risk and Return by Mihir Desai 
 
 ## Misc (Books)
@@ -121,10 +121,10 @@ Please _start by checking the archive, **not** the latest episodes._
 - The Snowball: Warren Buffett and the Business of Life by Alice Schroeder 
 - Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger by Peter D. Kaufman
 - Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke
-- Fortunes in Special Situations in the Stock Market: The Authorized Edition by Maurece Schiller
+- Fortunes in Special Situations in the Stock Market by Maurece Schiller
 - The Little Book of Common Sense Investing by John C. Bogle
 - A Mathematician Plays The Stock Market by John Allen Paulos 
-- Positional Option Trading: An Advanced Guide (Wiley Trading) by Euan Sinclair 
+- Positional Option Trading: An Advanced Guide by Euan Sinclair 
 - The Big Short by Michael Lewis
 - Distress Investing: Principles and Technique by Whitman 
-- Applied Corporate Finance, Fourth Edition 4th Edition by Aswath Damodaran (Aut
+- Applied Corporate Finance by Aswath Damodaran
