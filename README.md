@@ -93,7 +93,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - Warren Buffett and the Interpretation of Financial Statements by Mary Buffett
 - The Education of a Value Investor by Guy Spier
 
-## Macroeconomics
+## Macroeconomics (Books)
 - The Money Illusion by Irving Fisher
 - Basic Economics by Thomas Sowell 
 - How an Economy Grows and Why It Crashes by Schiff
