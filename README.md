@@ -129,5 +129,5 @@ Please _start by checking the archive, **not** the latest episodes._
 - Distress Investing: Principles and Technique by Whitman 
 - Applied Corporate Finance by Aswath Damodaran
 
-Book recommendation:
+## Book recommendation:
 - [X's Recommended Reading List](https://www.valuewalk.com/?s=books+Recommended)
