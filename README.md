@@ -24,6 +24,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [QuickFS](https://quickfs.net/)
 - [GuruFocus](https://www.gurufocus.com/)
 - [Edgar](https://www.sec.gov/edgar.shtml)
+- [Koyfin](koyfin.com)
 - [Whale Wisdom](https://whalewisdom.com/)
 - [Open Insider](http://openinsider.com/)
 - [DataRoma](https://www.dataroma.com/m/home.php)
