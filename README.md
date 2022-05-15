@@ -36,6 +36,7 @@ Please _start by checking the archive, **not** the latest episodes._
 - [The Motley Fool](https://www.fool.com)
 - [Strike Market (alternative data)](https://strike.market)
 - [BamSEC](https://www.bamsec.com/)
+- [Morningstar](https://www.morningstar.com)
 
 ## Learn more (Audio/Video)
 - [PensionCraft](https://www.youtube.com/c/Pensioncraft)
